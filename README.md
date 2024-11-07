@@ -5,6 +5,7 @@ About Me:
 I'm the type who’s always looking to learn something new—whether it's a new Python trick, a cool network protocol, or just an excuse to mess around with code. I’ve been tackling Project Euler problems (because who doesn’t love a good challenge, right?), building prediction models, and putting my skills to the test with every project I can get my hands on.
 
 What I Do ->
+
 🛠 Backend Dev Enthusiast: 
 Backend is my playground. I work mainly with Python and Django , building solid systems and diving into databases like MySQL and PostgreSQL.
 
