@@ -1,5 +1,5 @@
 Hey there! I'm Nima Afkham 😎
-Welcome to my GitHub! I'm a passionate, curious, and slightly caffeinated computer engineering student who loves diving into all things code. I’m currently studying Artificial intelligence Masters at Isfahan University of Technology (IUT).
+Welcome to my GitHub! I'm a passionate, curious, and slightly caffeinated computer engineering student who loves diving into all things code.
 
 About Me:
 I'm the type who’s always looking to learn something new—whether it's a new Python trick, a cool network protocol, or just an excuse to mess around with code. I’ve been tackling Project Euler problems (because who doesn’t love a good challenge, right?), building prediction models, and putting my skills to the test with every project I can get my hands on.
@@ -7,7 +7,7 @@ I'm the type who’s always looking to learn something new—whether it's a new 
 What I Do ->
 
 🛠 Backend Dev Enthusiast: 
-Backend is my playground. I work mainly with Python and Django , building solid systems and diving into databases like MySQL and PostgreSQL.
+Backend is my playground. I work mainly with Python and Django, building solid systems and diving into databases like MySQL and PostgreSQL.
 
 🤖 Wannabe Data Wizard: 
 I’m dabbling in machine learning, having built a couple of prediction models—one for diabetes and another to predict bank loan approvals. It’s early days, but hey, everyone starts somewhere!
