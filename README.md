@@ -1,22 +1,58 @@
-Hey there! I'm Nima Afkham 😎
-Welcome to my GitHub! I'm a passionate, curious, and slightly caffeinated computer engineering student who loves diving into all things code.
+<div align="center">
 
-About Me:
-I'm the type who’s always looking to learn something new—whether it's a new Python trick, a cool network protocol, or just an excuse to mess around with code. I’ve been tackling Project Euler problems (because who doesn’t love a good challenge, right?), building prediction models, and putting my skills to the test with every project I can get my hands on.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hey,%20I'm%20Nima&fontSize=46&fontColor=ffffff&desc=Curious.%20Adventurous.%20Always%20Building%20Something.&descAlign=50&descAlignY=62&animation=fadeIn" width="100%"/>
 
-What I Do ->
+<a href="https://github.com/NimaAfkham">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=21&pause=1200&color=2C5364&center=true&vCenter=true&width=680&lines=I+don't+box+myself+into+one+role...;I'm+curious+about+everything+in+tech;I+build.+I+test.+I+keep+things+alive.;Backend%2C+frontend%2C+data+-+I+go+wherever+an+idea+takes+me." alt="Typing SVG" />
+</a>
 
-🛠 Backend Dev Enthusiast: 
-Backend is my playground. I work mainly with Python and Django, building solid systems and diving into databases like MySQL and PostgreSQL.
+</div>
 
-🤖 Wannabe Data Wizard: 
-I’m dabbling in machine learning, having built a couple of prediction models—one for diabetes and another to predict bank loan approvals. It’s early days, but hey, everyone starts somewhere!
+### 🧭 About Me
 
-📚 Forever Learning: 
-Right now, I’m geeking out on networking with Network+ and catching up on Git and GitHub magic. And I’m also eyeing Qt for future GUI fun with Python and C++.
+I'm not really the "backend guy," the "frontend guy," or the "database guy" anymore — honestly, I stopped trying to fit myself into one box. I'm just someone who's endlessly curious about how things work, and a little adventurous about jumping into whatever tool gets an idea built. Some days that means shaping a database, other days it's wiring up a UI, scripting something that talks to an API, or figuring out why a pipeline quietly broke overnight. I enjoy all of it.
 
-Fun Facts :
-💡 I like to keep things interesting by learning the most random tech facts, so there's always something fun to chat about.
-☕ Yes, caffeine fuels my code. Enough said.
-🌱 Always on a journey to make the impossible... slightly more possible.
-Thanks for dropping by! If you’re into tech, learning, or just want to connect, reach out! Let’s make something awesome.
+What I care about isn't the label — it's the process: **discovering** something new, **building** it, **testing** it until it's solid, and then actually sticking around to **maintain** it (a lot of people forget that last part). If a project needs a hand it hasn't had before, I'm probably going to enjoy figuring it out.
+
+### 🔭 What I'm Up To
+
+- Exploring the world of data — pipelines, warehouses, and the stories hiding in raw numbers
+- Keeping a handful of side projects quietly running in the background (automation is basically my love language)
+- Always poking around some new corner of tech, just to see how it works
+
+### 🧰 Things I Reach For
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,mysql,git,github,linux,vscode&theme=dark" />
+</div>
+
+<p align="center"><i>Not a checklist of what I "specialize" in — just the tools that happen to be in my hands most often while I'm building something.</i></p>
+
+### 🚀 A Few Things I've Built
+
+<div align="center">
+<a href="https://github.com/NimaAfkham/Movie_Data_Warehouse"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=Movie_Data_Warehouse&theme=tokyonight" /></a>
+<a href="https://github.com/NimaAfkham/kyuka-telegram-bot"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=kyuka-telegram-bot&theme=tokyonight" /></a>
+</div>
+<div align="center">
+<a href="https://github.com/NimaAfkham/SimulationGUI"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=SimulationGUI&theme=tokyonight" /></a>
+<a href="https://github.com/NimaAfkham/Project_Euler-in-python-"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=Project_Euler-in-python-&theme=tokyonight" /></a>
+</div>
+
+### 📊 The Numbers
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NimaAfkham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=NimaAfkham&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+### 📫 Come Say Hi
+
+<div align="center">
+<a href="mailto:nima.afkham819@gmail.com"><img src="https://img.shields.io/badge/Email-nima.afkham819%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/Nima_afx"><img src="https://img.shields.io/badge/Telegram-%40Nima__afx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
+
+<div align="center">
+<sub>Thanks for stopping by — if you're curious about something I've built, poke around or say hello 👋</sub>
+</div>
