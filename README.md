@@ -30,20 +30,17 @@ What I care about isn't the label — it's the process: **discovering** somethin
 
 ### 🚀 A Few Things I've Built
 
-<div align="center">
-<a href="https://github.com/NimaAfkham/Movie_Data_Warehouse"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=Movie_Data_Warehouse&theme=tokyonight" /></a>
-<a href="https://github.com/NimaAfkham/kyuka-telegram-bot"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=kyuka-telegram-bot&theme=tokyonight" /></a>
-</div>
-<div align="center">
-<a href="https://github.com/NimaAfkham/SimulationGUI"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=SimulationGUI&theme=tokyonight" /></a>
-<a href="https://github.com/NimaAfkham/Project_Euler-in-python-"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=NimaAfkham&repo=Project_Euler-in-python-&theme=tokyonight" /></a>
-</div>
+| | |
+|---|---|
+| 🎬 **[Movie_Data_Warehouse](https://github.com/NimaAfkham/Movie_Data_Warehouse)** | An automated pipeline that quietly tracks daily movie trends and mails itself to a Telegram channel every morning |
+| 🤖 **[kyuka-telegram-bot](https://github.com/NimaAfkham/kyuka-telegram-bot)** | A Telegram bot doing real, practical work behind the scenes for a local cafe |
+| 🌐 **[SimulationGUI](https://github.com/NimaAfkham/SimulationGUI)** | A GUI for building and testing network simulation strategies |
+| 🧮 **[Project Euler in Python](https://github.com/NimaAfkham/Project_Euler-in-python-)** | Chipping away at Project Euler's puzzles, purely for the fun of the "aha" moment |
 
 ### 📊 The Numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NimaAfkham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=NimaAfkham&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=NimaAfkham&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ### 📫 Come Say Hi
